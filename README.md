@@ -30,6 +30,10 @@ Whether it’s a **startup or a global team**, I’m excited to bring ideas to l
 - 🌐 [Portfolio](https://dalia.dev)  
 
 ---
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
 
 > "Design is not just what it looks like and feels like. Design is how it works." — *Steve Jobs*
 
