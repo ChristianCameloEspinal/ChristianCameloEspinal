@@ -26,7 +26,7 @@ Whether it’s a **startup or a global team**, I’m excited to bring ideas to l
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/christian-camelo)  
+- 💼 [LinkedIn](https://linkedin.com/in/christian-camelo-espinal)  
 - 🌐 [Portfolio](https://dalia.dev)  
 
 ---
