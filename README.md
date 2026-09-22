@@ -90,12 +90,6 @@ TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · MySQL �
 
 For product and interface work I also use Figma, motion tools and prototyping workflows.
 
-## Elsewhere
-
-Portfolio — dalia.dev  
-LinkedIn — Christian Camelo Espinal
----
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/christian-camelo-espinal)  
 - 🌐 [Portfolio](https://dalia.dev)  
