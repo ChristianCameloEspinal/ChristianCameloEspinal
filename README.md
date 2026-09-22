@@ -1,29 +1,99 @@
 
 # 👋 Hey there, I'm Chris!  
-**Design-minded Engineer • UI/UX Explorer • Tech Builder**
+# Christian Camelo
 
-🎓 I'm a Multimedia Engineer based in Spain with a strong passion for **design-driven development**, building **clean, interactive UIs**, and bringing **ideas to life through code**.
+**Product Engineer · Design + Software**
+
+I design and build digital products from the interface down to the infrastructure.
+
+My work sits between **product design, software engineering and data-driven systems**, with a particular focus on building useful web applications rather than isolated websites.
+
+Currently working mainly with **TypeScript, Next.js, React, Node.js, PostgreSQL and Docker**.
+
+## Selected work
+
+### SubastasEspaña
+
+A data platform for discovering and analysing Spanish real-estate auctions.
+
+The system collects public auction data, enriches properties using external data sources and calculates market and investment indicators automatically.
+
+**Architecture**
+
+Next.js · TypeScript · PostgreSQL · Prisma · Node.js · Docker
+
+**Some of the engineering involved**
+
+- Automated BOE auction ingestion
+- Property enrichment through Catastro data
+- Market price estimation using external datasets
+- Investment margin and risk calculations
+- Scheduled background workers
+- Production deployment on VPS infrastructure
+
+[Live product → subastasespana.com]
 
 ---
 
-## 💻 What I Do
-- 🧠 I blend **design thinking** with **engineering skills** to create interfaces that are both beautiful and functional.  
-- 🚀 I love working on **React + Next.js** apps with a strong focus on **UI/UX, accessibility, and performance**.  
-- ✨ I enjoy crafting **microinteractions** with tools like **Framer Motion**, **GSAP**, and building **design systems** with **React + Figma**.
+### Real-estate data platform
+
+Hybrid architecture developed for a high-volume real-estate platform.
+
+The original WordPress-based system was progressively separated into a dedicated application architecture:
+
+`CRM → Node.js synchronization layer → MySQL → Next.js → User`
+
+WordPress remains responsible for editorial and marketing content while application-critical data is handled independently.
+
+Main areas of work:
+
+- CRM API and XML integrations
+- Multilingual data normalization
+- Backend-for-Frontend architecture
+- Large media datasets
+- SEO-oriented server rendering
+- Scheduled synchronization jobs
 
 ---
 
-## 🔥 Current Focus
-- Becoming a **Design Engineer** — where creativity meets code.  
-- Exploring **Web Front-end + Back-end Architecture**.  
-- Building a **portfolio of delightful digital experiences**.
+### TokenPass
 
----
+Experimental ticketing platform using blockchain-based ownership and digital tickets.
 
-## 🌍 Open to Opportunities
-I'm looking for **remote-first teams** building meaningful products with high design standards.  
-Whether it’s a **startup or a global team**, I’m excited to bring ideas to life and push pixels with purpose.
+Built as a complete system including:
 
+- React interface
+- Node.js / Express backend
+- PostgreSQL persistence
+- Ethereum smart contracts
+- Wallet interaction
+- Ticket ownership and transfer logic
+
+The project explored how blockchain infrastructure could remain mostly invisible to end users while still providing verifiable ownership.
+
+## What I work on
+
+I am particularly interested in products involving:
+
+**Data systems**
+APIs, integrations, ingestion pipelines and information-heavy applications.
+
+**Product engineering**
+Taking products from interface and interaction design through implementation and deployment.
+
+**Internal tools & automation**
+Replacing repetitive operational processes with purpose-built software.
+
+## Stack
+
+TypeScript · JavaScript · React · Next.js · Node.js · PostgreSQL · MySQL · Prisma · Docker · WordPress · REST APIs
+
+For product and interface work I also use Figma, motion tools and prototyping workflows.
+
+## Elsewhere
+
+Portfolio — dalia.dev  
+LinkedIn — Christian Camelo Espinal
 ---
 
 ## 📫 Let's Connect
@@ -31,10 +101,6 @@ Whether it’s a **startup or a global team**, I’m excited to bring ideas to l
 - 🌐 [Portfolio](https://dalia.dev)  
 
 ---
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
 
 > "Design is not just what it looks like and feels like. Design is how it works." — *Steve Jobs*
 
